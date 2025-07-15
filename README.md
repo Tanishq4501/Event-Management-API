@@ -52,8 +52,8 @@ Event-Management-API/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/Tanishq4501/Event-Management-API
+cd Event-Management-API-main
 ```
 
 ---
