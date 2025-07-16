@@ -275,7 +275,7 @@ All errors return:
 
 ---
 
-## 📸 API Screenshots
+## API Screenshots
 
 Below are screenshots of example requests and responses for each endpoint, as tested in Postman:
 
