@@ -44,6 +44,9 @@ Event-Management-API/
 ├── server.js
 └── README.md
 ```
+---
+## ER Diagram 
+![ER Diagram](screenshots/bP9F3z904CNl-od67erDuBg11XAHe0an25x9qWvqu_wfswbAmE_kTAho9shYQIUpx-tlpRIpbaoYpZlrWchq28qpDgZsamsDISQ3im7ft2...s_0c--JSUZqOYdhw3tFx_IXz1QlgK2s0NxkKCeUJCSmGPwzXqYKVHiVCYf0DvsePJ8P0uEuHYJ0gQ7Squnxqz8w8QTrxRXkmFILyGW0LemZ1d-bplYZClEkny0.png)
 
 ---
 
